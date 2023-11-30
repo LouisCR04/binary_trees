@@ -11,4 +11,5 @@ binary_tree_print.c contains functions to print binary trees in a pretty way
 (-09)     (-07)
 ```
 
+The '.' characters are replaced with '|' inside the code.
 [Original code](Original code from http://stackoverflow.com/a/13755911/5184480)

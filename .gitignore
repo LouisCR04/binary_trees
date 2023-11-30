@@ -1,3 +1,8 @@
+ztest.c
+template_c.c
+pushscript.sh
+c_newTask.sh
+
 # Prerequisites
 *.d
 
