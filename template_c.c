@@ -7,7 +7,6 @@
  * Return:
  */
 
-
 {
 	return (0);
 }
